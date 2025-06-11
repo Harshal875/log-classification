@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.env
+__pycache__/
+*.pyc
+venv/
+classi/
+log/
+models/*.joblib
+
+README.md
