@@ -1,0 +1,6 @@
+source,log_message,target_label
+ModernCRM,User User456 logged in.,User Action
+BillingSystem,Backup completed successfully.,System Notification
+AnalyticsEngine,File report.csv uploaded successfully by user Admin,System Notification
+LegacyCRM,The old API will be deprecated in version 2.0,Unclassified
+ModernHR,Multiple login failures detected for user account,Unclassified
